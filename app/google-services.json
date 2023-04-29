@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376597907151",
+    "project_id": "catch-me-if-u-can-fdc1c",
+    "storage_bucket": "catch-me-if-u-can-fdc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376597907151:android:00b9c9cc936ef3cb8d19ba",
+        "android_client_info": {
+          "package_name": "com.example.catchmeifucan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376597907151-h2c2hsv126d3r1e4clv499n7q35s4a0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-MJS0ql2lAIOtFqDQOqFqV-gRhmoCtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376597907151-h2c2hsv126d3r1e4clv499n7q35s4a0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
