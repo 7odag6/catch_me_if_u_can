@@ -1,5 +1,5 @@
 package com.example.catchmeifucan;
-orabyyy
+
 
 import static android.content.ContentValues.TAG;
 
@@ -102,11 +102,7 @@ public class register extends Activity {
                                                 Toast.LENGTH_SHORT).show();
 
                                     }
-                                }
-                            });
-
-
-
+                                });
             }
         });
     }
