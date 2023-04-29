@@ -96,7 +96,8 @@ public class register extends Activity {
                                         Toast.makeText(register.this, "Account Created.",
                                                 Toast.LENGTH_SHORT).show();
 
-                                    } else {
+                                    }
+                                    else {
                                         // If sign in fails, display a message to the user.
                                         Toast.makeText(register.this, "Authentication failed.",
                                                 Toast.LENGTH_SHORT).show();
